@@ -13,4 +13,4 @@ I am a 3rd year Computer Science Ph.D. graduate at The Ohio State University wit
 
 Curriculum Vitae (CV)
 ======
-Please find my lated resume [here]
+Please find my lated resume [here](http://academicpages.github.io/files/(MS)Manikya Swathi Vallabhajosyula.pdf)
