@@ -13,10 +13,9 @@ I am a 3rd year Computer Science Ph.D. graduate at The Ohio State University wit
 
 Latest Role
 ======
-Research Intern	(at [ORNL](https://www.ornl.gov/))
-Graduate Reserach Assistant (at [CSE](https://cse.osu.edu/) @ [The Ohio State University](https://osu.edu/))
+Research Intern	(at [ORNL](https://www.ornl.gov/)) and Graduate Reserach Assistant (at [CSE](https://cse.osu.edu/) @ [The Ohio State University](https://osu.edu/))
 
 
 Curriculum Vitae (CV)
 ======
-Please find my latest resume [here](http://academicpages.github.io/files/(MS)Manikya Swathi Vallabhajosyula.pdf)
+Please find my latest resume [here](http://manikyaswathi.github.io/files/ManikyaSwathi_Vallabhajosyula_cv.pdf)
