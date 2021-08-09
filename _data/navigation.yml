@@ -3,8 +3,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Academic Projects"
+    url: /academicprojects/
+
+  - title: "Industrial Projects"
+    url: /industrialprojects/    
 
   - title: "Teaching"
     url: /teaching/    
