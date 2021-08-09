@@ -3,14 +3,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Academic Projects"
-    url: /academicprojects/
+  # - title: "Academic Projects"
+  #   url: /academicprojects/
 
-  - title: "Industrial Projects"
-    url: /industrialprojects/    
+  # - title: "Industrial Projects"
+  #   url: /industrialprojects/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Teaching"
+  #   url: /teaching/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
