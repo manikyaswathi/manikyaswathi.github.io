@@ -55,7 +55,10 @@ Graduate Courses
 Publications
 ======
 * Hassan, Arshia Z., Manikya S. Vallabhajosyula, and Ted Pedersen. "Umduluth-cs8761 at semeval-2018 task 9: Hypernym discovery using hearst patterns, co-occurrence frequencies and word embeddings." arXiv preprint arXiv:1805.10271 (2018).
-
+  <!-- <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+   -->
   
 Teaching
 ======
@@ -64,6 +67,12 @@ As a Graduate Teaching Assistant, I assisted in the following courses
 * Computing Ethics
 * Natural Language Processing
 During my undergraduate senior year, I taught Android Programming to undergraduate juniors. 
-
+  <!-- <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul> -->
+  
+<!-- Service and leadership
+======
+* Currently signed in to 43 different slack teams -->
 
 Please find my latest resume [here](http://manikyaswathi.github.io/files/ManikyaSwathi_Vallabhajosyula_cv.pdf)
