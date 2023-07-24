@@ -16,7 +16,7 @@ As a full-stack developer, I worked for a year after my master's at  [Spherexx.c
 
 Latest Role
 ======
-SGX3 Summer Fellow at The University of Texas at Austin ​Texas Advanced Computing Center [TACC](https://www.tacc.utexas.edu/) and Graduate Reserach Assistant (at [CSE](https://cse.osu.edu/) @ [The Ohio State University](https://osu.edu/))
+[SGX3](https://sciencegateways.org/) Summer Fellow at The University of Texas at Austin ​Texas Advanced Computing Center [TACC](https://www.tacc.utexas.edu/) and Graduate Reserach Assistant (at [CSE](https://cse.osu.edu/) @ [The Ohio State University](https://osu.edu/))
 
 
 Curriculum Vitae (CV)
