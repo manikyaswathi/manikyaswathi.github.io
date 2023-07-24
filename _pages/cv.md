@@ -17,8 +17,11 @@ Education
 
 Work experience
 ======
-
-* Summer 2022: Intern Reserach Instructor
+* Summer 2023: SGX3 Summer Fellow
+  * The University of Texas at Austin ​Texas Advanced Computing Center TACC
+  * Supervisor: Dr. Joe Stubbs
+    
+* Summer 2022: Intern Research Instructor
   * VNRVJIET
     
 * Summer 2021: Research Intern
