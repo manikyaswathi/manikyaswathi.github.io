@@ -82,12 +82,13 @@ analytics:
 author:
   name             : "Manikya Swathi Vallabhajosyula"
   avatar           : "Swathi.jpeg"
-  bio              : "A 3rd year Ph.D. student at The Ohio State University"
+  bio              : "A 4th year Ph.D. student at The Ohio State University"
   location         : "Columbus, Ohio"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : swathi.vallabhajosyula@gmail.com
+  email            : vallabhajosyula.2@buckeyemail.osu.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
