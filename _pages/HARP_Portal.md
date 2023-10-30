@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Know Your Resource Needs! Using HARP"
+permalink: /HARP_Portal/
 author_profile: true
 redirect_from:
   - /resume
