@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Know Your Resource Needs! Using HARP"
+title: "Know Your Resource Needs: Using HARP to Estimate Resource Requirements for Running an Application"
 permalink: /HARP_Portal/
 author_profile: true
 redirect_from:
@@ -9,13 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
+How much and How Long?
+======
+![Why HARP?](/images/HowWellYouKnowYourJob.png)
+
+Scientific workflows rely on High-Performance Computing (HPC), where varying hardware and software requirements are critical. Choosing the correct execution environment is vital for optimal resource utilization. Yet, users frequently encounter difficulties with manual approaches, resulting in suboptimal allocation and underutilization. Maximizing HPC efficiency in research requires users to comprehend their workflows and execution environments. To accurately estimate resource needs, machine learning models with workflow-specific data are essential. This work highlights the challenges of manual workflow optimization and promotes the use of AI-driven frameworks for precise application resource estimation and optimal allocation recommendations.
+
+
 HARP - HPC Application Runtime Predictor
 ======
-HARP stands for "HPC Application Resource (runtime) Predictor." It is a solution introduced in the context of high-performance computing (HPC) to help optimize resource allocation for scientific tasks. HARP utilizes prediction-based recommendations and aims to improve the efficient use of resources in HPC environments by considering specific resource requirements and batch queueing policies.
+HARP stands for "HPC Application Resource (runtime) Predictor." It is a solution introduced in the context of high-performance computing (HPC) to help optimize resource allocation for scientific tasks. HARP utilizes prediction-based recommendations and aims to improve the efficient use of resources in HPC environments by considering specific resource requirements and batch queueing policies. HARP emulates scientific workflows, estimates resource requirements, and incorporates policy-driven resource management to optimize HPC utilization and improve efficiency.
 
 ![Why HARP?](/images/WhyHARP.png)
 
-Work experience
+## Second level header
 ======
 * Summer 2023: SGX3 Summer Fellow
   * The University of Texas at Austin ​Texas Advanced Computing Center TACC
