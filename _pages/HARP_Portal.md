@@ -20,7 +20,7 @@ HARP - HPC Application Runtime Predictor
 ======
 HARP stands for "HPC Application Resource (runtime) Predictor." It is a solution introduced in the context of high-performance computing (HPC) to help optimize resource allocation for scientific tasks. HARP utilizes prediction-based recommendations and aims to improve the efficient use of resources in HPC environments by considering specific resource requirements and batch queueing policies. HARP emulates scientific workflows, estimates resource requirements, and incorporates policy-driven resource management to optimize HPC utilization and improve efficiency.
 
-![Why HARP?](/images/WhyHARP.png width="100" height="50")
+![Why HARP?](/images/WhyHARP.png)
 
 ## Second level header
 ======
