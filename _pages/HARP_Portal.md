@@ -15,6 +15,7 @@ List of Contents
 2. How much and How Long?
 3. HARP - HPC Application Runtime Predictor
 4. HARP Portal - In progress for Live - snapshots 
+5. Publications and Presetations
 
 # GitHub
 The code for HARP and the contaner Images could be found here: https://github.com/ICICLE-ai/harp
@@ -58,7 +59,7 @@ The above image shows the features corelation and the influence of features on W
 
 This is a sample cost-time output from the regression models results parsed to CI policied and billings. 
 
-
+# Publications and Presetations
 Publications
 ======
 * Vallabhajosyula, Manikya Swathi, and Rajiv Ramnath. "Towards Practical, Generalizable Machine-Learning Training Pipelines to build Regression Models for Predicting Application Resource Needs on HPC Systems." Practice and Experience in Advanced Research Computing. 2022. 1-5.
