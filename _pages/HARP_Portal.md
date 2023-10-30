@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+HARP - HPC Application Runtime Predictor
 ======
-* B.S. in Computer Science and Engineering, VNRVJIET (JNTU-H), 2013
-* M.S. in Computer Science and Engineering, University of Minnesota Duluth, 2018
-* Ph.D. in Computer Science and Engineering, The Ohio State University, 2024 (expected)
+HARP stands for "HPC Application Resource (runtime) Predictor." It is a solution introduced in the context of high-performance computing (HPC) to help optimize resource allocation for scientific tasks. HARP utilizes prediction-based recommendations and aims to improve the efficient use of resources in HPC environments by considering specific resource requirements and batch queueing policies.
+
+![Why HARP?](/images/WhyHARP.png)
 
 Work experience
 ======
@@ -75,7 +75,7 @@ Presentations and Posters
 * Chanana, Rishabh; Vallabhajosyula, Manikya Swathi; Ramnath, Rajiv (2021): Using synthesized data to train machine learning models used in genome engineering pipeline. figshare. Poster. https://doi.org/10.6084/m9.figshare.22565113.v1
 * Vallabhajosyula, Manikya Swathi; Ramnath, Rajiv (2022): Building an AI-powered Assistant for Computational Scientists. figshare. Poster. https://doi.org/10.6084/m9.figshare.11777796.v1
 * Vallabhajosyula, Manikya Swathi; Ramnath, Rajiv (2023): Modeling A Framework To Estimate Resource Requirements For Scientific Workflows. figshare. Poster. https://doi.org/10.6084/m9.figshare.22363183.v1
-* Vallabhajosyula, Manikya Swathi; Ramnath, Rajiv (2023): owards Characterizing DNNs to Estimate Training Time using HARP (HPC Application Resource (runtime) Predictor http://camps.aptaracorp.com/ACM_PMS/PMS/ACM/PEARC23/82/138a150e-f8dd-11ed-b37c-16bb50361d1f/OUT/pearc23-82.html
+* Vallabhajosyula, Manikya Swathi; Ramnath, Rajiv (2023): Towards Characterizing DNNs to Estimate Training Time using HARP (HPC Application Resource (runtime) Predictor http://camps.aptaracorp.com/ACM_PMS/PMS/ACM/PEARC23/82/138a150e-f8dd-11ed-b37c-16bb50361d1f/OUT/pearc23-82.html
 
 
 
