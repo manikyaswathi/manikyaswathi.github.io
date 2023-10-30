@@ -22,53 +22,25 @@ HARP stands for "HPC Application Resource (runtime) Predictor." It is a solution
 
 ![Why HARP?](/images/WhyHARP.png)
 
-## Second level header
+## Components of HARP
 ======
-* Summer 2023: SGX3 Summer Fellow
-  * The University of Texas at Austin ​Texas Advanced Computing Center TACC
-  * Supervisor: Dr. Joe Stubbs
-    
-* Summer 2022: Intern Research Instructor
-  * VNRVJIET
-    
-* Summer 2021: Research Intern
-  * Oak Ridge National Laboratory
-  * Supervisor: Dr. Matthew Wolf
+The HARP (HPC Application Resource Predictor) framework consists of several key components:
 
-* Spring 2020 - present: Graduate Research Assistant
-  * Computer Science and Engineering
-  * The Ohio State University
-  * Academic advisor: [Dr. Rajiv Ramnath]
+1. Workflow Emulation Module: This module is responsible for emulating scientific workflows, capturing how different tasks within a workflow interact with HPC resources. It profiles the usage requirements of workflows.
 
-* Autumn 2019: Graduate Teaching Assistant
-  * Computer Science and Engineering
-  * The Ohio State University
+2. Resource Requirement Estimation Module: Using data gathered from the workflow emulation, this module estimates the resource requirements for future job executions. It utilizes regression models to predict memory and execution times accurately.
 
-* July 2018 - Aug 2019: Full Stack Web-Application Developer
-  * Projects
-    * Application to integrate forms from Facebook.
-    * Building Interactive Voice Response (IVR) systems - voice bot built using [Twilio](https://www.twilio.com/) calling interface. 
-    * Building User Interface(UI) for filtering/creating training data for voice bot.
+3. Policy-Driven Component: This component allows users to define and enforce policies for resource allocation. Users can customize rules for job prioritization, resource reservation, and other resource management aspects.
 
-* Autumn, 2016 - Spring, 2018: Graduate Teaching Assistant
-  * Computer Science and Engineering
-  * University of Minnesota Duluth
-
-* June 2013 - July 2016: Software Engineer (Former Associate till June 2015)
-  * Product: CA XCOM Gateway GA 2.0
-
-Graduate Courses
+## Executing HARP from TAPIS
 ======
-* Core: Algorithms, Advance Operating Systems, Foundations of Programming Languages
-* Artificial Intelligence
-* Computational Linguistics 
-* Natural Language Processing
-* Advance Security & Networking
+We've developed HARP containers for seamless integration with TAPIS. The HARP modules can run as TAPIS applications. The following Colab notebooks demonstrate the execution of HARP for profiling an example application (Euler Number) on both OSC and TACC systems:
 
+* OSC Example: https://colab.research.google.com/drive/19GNHVNE6_b52JepLud1cpeVhg9ApgSlq
+* TACC Example: https://colab.research.google.com/drive/1317dQqaKlGqcNULlOPP7i9i_vEvgYbWe
 
 Publications
 ======
-* Hassan, Arshia Z., Manikya S. Vallabhajosyula, and Ted Pedersen. "Umduluth-cs8761 at semeval-2018 task 9: Hypernym discovery using hearst patterns, co-occurrence frequencies and word embeddings." arXiv preprint arXiv:1805.10271 (2018).
 * Vallabhajosyula, Manikya Swathi, and Rajiv Ramnath. "Towards Practical, Generalizable Machine-Learning Training Pipelines to build Regression Models for Predicting Application Resource Needs on HPC Systems." Practice and Experience in Advanced Research Computing. 2022. 1-5.
 * Vallabhajosyula and R. Ramnath, "Establishing a Generalizable Framework for Generating Cost-Aware Training Data and Building Unique Context-Aware Walltime Prediction Regression Models," 2022 IEEE Intl Conf on Parallel & Distributed Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & Communications, Social Computing & Networking (ISPA/BDCloud/SocialCom/SustainCom), Melbourne, Australia, 2022, pp. 497-506, doi: 10.1109/ISPA-BDCloud-SocialCom-SustainCom57177.2022.00070.
 * Vallabhajosyula, Manikya Swathi, and Rajiv Ramnath. " Insights from the HARP Framework: Using an AI-Driven Approach for Efficient Resource Allocation in HPC Scientific Workflows" http://camps.aptaracorp.com/ACM_PMS/PMS/ACM/PEARC23/70/3a84c88c-f988-11ed-b37c-16bb50361d1f/OUT/pearc23-70.html
@@ -76,27 +48,13 @@ Publications
   
 Presentations and Posters
 =====
-* Vallabhajosyula, Manikya Swathi (2018): Identifying Hypernym for a New Sense in WordNet. figshare. Poster. https://doi.org/10.6084/m9.figshare.22565089.v1
 * Vallabhajosyula, Manikya Swathi; Ramnath, Rajiv (2020): EAGER: Bridging the Last Mile. figshare. Poster. https://doi.org/10.6084/m9.figshare.11777808.v3
 * Vallabhajosyula, Manikya Swathi; Ramnath, Rajiv (2021): Modeling A Framework To Estimate Resource Requirements For Scientific Workflows. figshare. Poster. https://doi.org/10.6084/m9.figshare.22363183.v1
-* Chanana, Rishabh; Vallabhajosyula, Manikya Swathi; Ramnath, Rajiv (2021): Using synthesized data to train machine learning models used in genome engineering pipeline. figshare. Poster. https://doi.org/10.6084/m9.figshare.22565113.v1
 * Vallabhajosyula, Manikya Swathi; Ramnath, Rajiv (2022): Building an AI-powered Assistant for Computational Scientists. figshare. Poster. https://doi.org/10.6084/m9.figshare.11777796.v1
 * Vallabhajosyula, Manikya Swathi; Ramnath, Rajiv (2023): Modeling A Framework To Estimate Resource Requirements For Scientific Workflows. figshare. Poster. https://doi.org/10.6084/m9.figshare.22363183.v1
 * Vallabhajosyula, Manikya Swathi; Ramnath, Rajiv (2023): Towards Characterizing DNNs to Estimate Training Time using HARP (HPC Application Resource (runtime) Predictor http://camps.aptaracorp.com/ACM_PMS/PMS/ACM/PEARC23/82/138a150e-f8dd-11ed-b37c-16bb50361d1f/OUT/pearc23-82.html
 
 
-
-
-Monday, October 30 - Wednesday, November 1, 2023 in Pittsbug, PA
-
-  
-Teaching
+GitHub
 ======
-As a Graduate Teaching Assistant, I assisted in the following courses
-* Programming: C++, JAVA
-* Computing Ethics
-* Natural Language Processing
-During my undergraduate senior year, I taught Android Programming to undergraduate juniors. 
-
-
-Please find my latest resume [here](http://manikyaswathi.github.io/files/ManikyaSwathi_Vallabhajosyula_cv.pdf)
+The code for HARP and the contaner Images could be found here: https://github.com/ICICLE-ai/harp
