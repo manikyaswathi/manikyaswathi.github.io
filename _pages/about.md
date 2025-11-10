@@ -8,17 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-I am a 5th-year Computer Science Ph.D. graduate at The Ohio State University with four years of professional experience developing and testing web and server applications. I am working as a Graduate Research Assistant with [Dr. Rajiv Ramnath](https://cse.osu.edu/people/ramnath.6) at The Ohio State University on an NSF-EAGER (Early-concept Grants for Exploratory Research) Bridging the Last Mile and ICICLE AI Institute (ICICLE: Intelligent CI with Computational Learning in the Environment) projects – focusing on building artificially intelligent systems to assist researchers in carrying their experiments productively. 
+I am Manikya Swathi Vallabhajosyula, a Ph.D. candidate in Computer Science and Engineering at The Ohio State University, specializing in AI-integrated Cyberinfrastructure. My research focuses on building agentic, resource-aware, and self-adaptive systems that optimize scientific workflows across the edge-to-HPC continuum.
 
-I completed my master's degree in Computer Science and Engineering (CSE) at The University of Minnesota Duluth ([UMD](https://www.d.umn.edu/)) (2018). I worked with [Dr. Ted Pederson](https://www.d.umn.edu/~tpederse/) for my master's thesis in Natural Language Processing. I pursued my bachelor's in CSE from VNR Vignana Jyothi Institute of Engineering and Technology ([VNRVJIET](http://www.vnrvjiet.ac.in/)) affiliated Jawaharlal Nehru Technological University Hyderabad ([JNTU-H](https://jntuh.ac.in/)). For more information on my academic projects, see [Academic Projects].
+As a Graduate Research Assistant under Dr. Rajiv Ramnath (https://cse.osu.edu/people/ramnath.6), I contribute to the NSF ICICLE AI Institute and EAGER Bridging the Last Mile projects, where I design frameworks such as the HPC Application Resource Predictor (HARP) and Smart Scheduler to improve AI-driven resource provisioning and workflow orchestration. My recent work extends into LLM-based orchestration layers, enabling natural language–driven workflow management for scientists.
 
-As a full-stack developer, I worked for a year after my master's at  [Spherexx.com](https://www.spherexx.com/) to work majorly on a voice bot application. I worked for three years at [CA Technologies](https://www.broadcom.com/solutions/ca-technologies-infrastructure-software-solutions), now a Broadcom subsidiary. I joined CA as an associate software engineer and got promoted to software engineer. Here, I worked on tasks ranging from quality analysis to development. For more information on my work, see [Industrial Projects].
+I also serve as the ICICLE NextGen Student Group Manager, leading a national network of 280+ students and organizing K–12 AI outreach and workforce readiness programs. I have mentored over 20 undergraduate and master’s students and guided more than 200 learners through summer research and teaching fellowships.
+
+Before joining OSU, I earned my M.S. in Computer Science from the University of Minnesota Duluth (https://www.d.umn.edu/) where I worked with Dr. Ted Pedersen (https://www.d.umn.edu/~tpederse/) on Natural Language Processing and semantic relation extraction, and my B.Tech. in Computer Science from VNRVJIET (http://www.vnrvjiet.ac.in/) affiliated with JNTU-Hyderabad (https://jntuh.ac.in/). I also bring four years of professional experience as a software engineer at CA Technologies (https://www.broadcom.com/solutions/ca-technologies-infrastructure-software-solutions) and Spherexx.com (https://www.spherexx.com/), developing full-stack web applications and automation frameworks.
+
+I am passionate about bridging AI, HPC, and domain science through scalable, interpretable, and sustainable computing systems.
 
 Latest Role
 ======
 [SGX3](https://sciencegateways.org/) Summer Fellow at The University of Texas at Austin ​Texas Advanced Computing Center [TACC](https://www.tacc.utexas.edu/) and Graduate Reserach Assistant (at [CSE](https://cse.osu.edu/) @ [The Ohio State University](https://osu.edu/))
 
 
+Full Resume
+===========
+Please find my latest resume [here](http://manikyaswathi.github.io/files/ManikyaSwathi_Vallabhajosyula_Resume.pdf)
+
 Curriculum Vitae (CV)
 ======
-Please find my latest resume [here](http://manikyaswathi.github.io/files/ManikyaSwathi_Vallabhajosyula_cv.pdf)
+Please find my latest CV [here](http://manikyaswathi.github.io/files/ManikyaSwathi_Vallabhajosyula_cv.pdf)
