@@ -8,25 +8,52 @@ redirect_from:
   - /about.html
 ---
 
-I am Manikya Swathi Vallabhajosyula, a Ph.D. candidate in Computer Science and Engineering at The Ohio State University, specializing in AI-integrated Cyberinfrastructure. My research focuses on building agentic, resource-aware, and self-adaptive systems that optimize scientific workflows across the edge-to-HPC continuum.
+I am a Ph.D. candidate in Computer Science and Engineering at [The Ohio State University](https://osu.edu/), specializing in **AI-integrated Cyberinfrastructure**. I build agentic, resource-aware systems that help scientists run workflows smarter — from edge devices to HPC clusters. Currently a [SGX3](https://sciencegateways.org/) Summer Fellow at [TACC](https://www.tacc.utexas.edu/), University of Texas at Austin, and Graduate Research Assistant under [Dr. Rajiv Ramnath](https://cse.osu.edu/people/ramnath.6) on the NSF ICICLE AI Institute and EAGER: Bridging the Last Mile projects.
 
-As a Graduate Research Assistant under Dr. Rajiv Ramnath (https://cse.osu.edu/people/ramnath.6), I contribute to the NSF ICICLE AI Institute and EAGER Bridging the Last Mile projects, where I design frameworks such as the HPC Application Resource Predictor (HARP) and Smart Scheduler to improve AI-driven resource provisioning and workflow orchestration. My recent work extends into LLM-based orchestration layers, enabling natural language–driven workflow management for scientists.
+---
 
-I also serve as the ICICLE NextGen Student Group Manager, leading a national network of 280+ students and organizing K–12 AI outreach and workforce readiness programs. I have mentored over 20 undergraduate and master’s students and guided more than 200 learners through summer research and teaching fellowships.
-
-Before joining OSU, I earned my M.S. in Computer Science from the University of Minnesota Duluth (https://www.d.umn.edu/) where I worked with Dr. Ted Pedersen (https://www.d.umn.edu/~tpederse/) on Natural Language Processing and semantic relation extraction, and my B.Tech. in Computer Science from VNRVJIET (http://www.vnrvjiet.ac.in/) affiliated with JNTU-Hyderabad (https://jntuh.ac.in/). I also bring four years of professional experience as a software engineer at CA Technologies (https://www.broadcom.com/solutions/ca-technologies-infrastructure-software-solutions) and Spherexx.com (https://www.spherexx.com/), developing full-stack web applications and automation frameworks.
-
-I am passionate about bridging AI, HPC, and domain science through scalable, interpretable, and sustainable computing systems.
-
-Latest Role
+At a Glance
 ======
-[SGX3](https://sciencegateways.org/) Summer Fellow at The University of Texas at Austin ​Texas Advanced Computing Center [TACC](https://www.tacc.utexas.edu/) and Graduate Reserach Assistant (at [CSE](https://cse.osu.edu/) @ [The Ohio State University](https://osu.edu/))
 
+<table style="width:100%; border-collapse: collapse;">
+  <tr>
+    <td style="padding: 12px 16px; vertical-align: top; width: 25%;">
+      <strong style="font-size: 1.6em;">9+</strong><br/>
+      years of research experience in AI, HPC, and Cyberinfrastructure<br/>
+      <em style="font-size:0.85em;">+ 4 years professional software engineering</em>
+    </td>
+    <td style="padding: 12px 16px; vertical-align: top; width: 25%;">
+      <strong style="font-size: 1.6em;">2×</strong><br/>
+      Best Paper — PEARC23 &amp; PEARC25<br/>
+      <em style="font-size:0.85em;">Phil Andrews Award for Best Paper Overall (both years); OSU Best Graduate Student Research Award 2026</em>
+    </td>
+    <td style="padding: 12px 16px; vertical-align: top; width: 25%;">
+      <strong style="font-size: 1.6em;">200+</strong><br/>
+      students taught and guided<br/>
+      <em style="font-size:0.85em;">20+ graduate &amp; undergraduate students directly mentored; 280+ in ICICLE NextGen network</em>
+    </td>
+    <td style="padding: 12px 16px; vertical-align: top; width: 25%;">
+      <strong style="font-size: 1.6em;">Fully Funded</strong><br/>
+      M.S. — University of Minnesota<br/>
+      <em style="font-size:0.85em;">Full tuition + stipend; SAIL GSR Keynote Speaker &amp; Travel Grant 2025; multiple conference travel awards</em>
+    </td>
+  </tr>
+</table>
 
-Full Resume
-===========
-Please find my latest resume [here](http://manikyaswathi.github.io/files/ManikyaSwathi_Vallabhajosyula_Resume.pdf)
+---
 
-Curriculum Vitae (CV)
+Research Focus
 ======
-Please find my latest CV [here](http://manikyaswathi.github.io/files/ManikyaSwathi_Vallabhajosyula_cv.pdf)
+My work centers on three intersecting problems: **predicting HPC resource needs** before a job runs (HARP Framework), **scheduling AI workloads** intelligently across edge and center (Smart Scheduler), and **empowering non-ML experts** to deploy models in the field (ML Field Planner). I am now extending these frameworks with **LLM-based agentic interfaces** that let scientists describe workflows in natural language. See [Research](/research/) for project details.
+
+---
+
+Background
+======
+M.S. in Computer Science, [University of Minnesota Duluth](https://www.d.umn.edu/) — NLP and semantic relation extraction with [Dr. Ted Pedersen](https://www.d.umn.edu/~tpederse/). B.Tech. in Computer Science, [VNRVJIET](http://www.vnrvjiet.ac.in/) (JNTU-Hyderabad). Four years of industry experience at [CA Technologies](https://www.broadcom.com/solutions/ca-technologies-infrastructure-software-solutions) and [Spherexx.com](https://www.spherexx.com/).
+
+Full details on the [Background](/cv/) page.
+
+---
+
+**Resume:** [PDF](http://manikyaswathi.github.io/files/ManikyaSwathi_Vallabhajosyula_Resume.pdf) &nbsp;|&nbsp; **CV:** [PDF](http://manikyaswathi.github.io/files/ManikyaSwathi_Vallabhajosyula_cv.pdf)
