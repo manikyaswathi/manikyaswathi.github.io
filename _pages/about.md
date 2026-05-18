@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Computer Science and Engineering at [The Ohio State University](https://osu.edu/), specializing in **AI-integrated Cyberinfrastructure**. I build agentic, resource-aware systems that help scientists run workflows smarter — from edge devices to HPC clusters. Currently a [SGX3](https://sciencegateways.org/) Summer Fellow at [TACC](https://www.tacc.utexas.edu/), University of Texas at Austin, and Graduate Research Assistant under [Dr. Rajiv Ramnath](https://cse.osu.edu/people/ramnath.6) on the NSF ICICLE AI Institute and EAGER: Bridging the Last Mile projects.
+I am a 7th-year Ph.D. candidate in Computer Science and Engineering at [The Ohio State University](https://osu.edu/), specializing in **AI-integrated Cyberinfrastructure**. I build agentic, resource-aware systems that help scientists run workflows smarter — from edge devices to HPC clusters. Currently a [SGX3](https://sciencegateways.org/) Summer Fellow at [TACC](https://www.tacc.utexas.edu/), University of Texas at Austin, and Graduate Research Assistant under [Dr. Rajiv Ramnath](https://cse.osu.edu/people/ramnath.6) on the NSF ICICLE AI Institute and EAGER: Bridging the Last Mile projects.
 
 ---
 

@@ -3,7 +3,7 @@ main:
   - title: "Background"
     url: /cv/
 
-  - title: "Research"
+  - title: "Projects"
     url: /research/
 
   - title: "Research Statement"
@@ -15,5 +15,5 @@ main:
   - title: "Blog"
     url: /year-archive/
 
-  - title: "Know your Resource Needs!"
-    url: /HARP_Portal/
+# - title: "Know your Resource Needs!"
+#   url: /HARP_Portal/
