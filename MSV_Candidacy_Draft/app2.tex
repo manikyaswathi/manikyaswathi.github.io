@@ -1,0 +1,63 @@
+\chapter{Important commands defined in {\tt osudissert96}}
+\label{allcommands:app}
+
+The following is a list of all commands available in {\tt osudissert96}.
+
+
+{\baselineskip=15pt
+\begin{verbatim}
+\author{First Middle Last}
+\title{The title of the thesis}
+\authordegrees{degree1, degree2}
+\unit{Department of Whatever The Name Is}
+\degree{Doctor of Philosophy}
+\committee{Dissertation}
+\advisorname{Name of advisor}  % Possible usage "Prof. Big Dude"
+\member{Name of committee member}
+
+\thesis  % this makes it a thesis rather than a dissertation,
+         %  similar to the documentclass option [masters] or [ms].
+
+\maketitle
+
+\disscopyright      % or \blankpage
+
+\begin{abstract}
+\end{abstract}
+
+\begin{externalabstract}
+\end{externalabstract}
+
+
+\dedication{This is dedicated to \ldots}
+
+\begin{acknowledgements}
+\end{acknowledgements}
+
+\begin{vita}
+\dateitem{Important Date}{ Why its important}
+
+\begin{publist}
+\researchpubs
+\pubitem{Bibliography item (from BibTeX?)}
+
+\instructpubs
+\pubitem{Bibliography item (from BibTeX?)}
+\end{publist}
+
+\begin{fieldsstudy}
+\majorfield*        % which uses \unit above
+% \majorfield{Your Major Field}
+\begin{studieslist}
+\studyitem{Topic 1}{Prof.\ 1}
+\studyitem{Topic 2}{Prof.\ 2}
+\studyitem{Topic 3}{Prof.\ 3}
+\end{studieslist}
+%% Note:  If there were only one field of study, the following list 
+%%        would best be done using the following command:
+%%  \onestudy{Only Topic}{Only Professor}
+\end{fieldsstudy}
+
+\end{vita}
+\end{verbatim}
+}

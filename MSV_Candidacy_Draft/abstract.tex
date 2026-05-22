@@ -1,0 +1,21 @@
+
+High-performance computing (HPC) environments are essential for scientific research across domains like climate modeling, genomics, and deep learning. However, researchers face significant challenges in resource provisioning, leading to inefficiencies in job execution. These challenges include the complexity of resource selection, inconsistencies in job configurations, a steep learning curve for performance profiling tools, and the constant need to adapt to changing cyberinfrastructure (CI) policies. Existing resource estimators lack adaptability to diverse architectures and batch policies, forcing researchers to rely on manual adjustments, which leads to resource over-provisioning, increased queue wait times, and higher computational costs.
+This research introduces an \textbf{AI-driven framework for intelligent resource provisioning} in HPC environments, featuring two core components:
+
+\begin{enumerate}
+    \item \textbf{HPC Application Resource Predictor (HARP):} A machine learning-based tool that generates application-specific resource estimates by analyzing code structure, parameter configurations, and hardware variability.
+    \item \textbf{Intelligent CI-Aware Scheduling: }A system that adapts resource estimates to CI constraints, considering budget limitations and scheduling policies to optimize job execution.
+\end{enumerate}
+
+\textbf{Key innovations include:}
+\begin{enumerate}
+    \item \textbf{Efficient Training Data Generation:} A downsized execution approach reduces data collection costs by a factor of 7.
+    \item \textbf{DNN-Estimator for AI Workloads:} A specialized predictor for deep neural networks (DNNs) that accounts for architecture, dataset size, and hardware configurations.
+    \item \textbf{Pre-SLURM Validation Database:} A structured database of HPC system configurations, integrating CI documentation and real-time system data.
+    \item \textbf{Intelligence Plane (IP):} A dynamic execution planning system that integrates with TAPIS to optimize scheduling, monitoring, and rescheduling of jobs.
+\end{enumerate}
+
+To validate the framework, we apply it to an animal ecology use case, where AI inference models analyze sensor data at the edge, triggering automated model retraining pipelines. The Intelligence Plane orchestrates data transfer, labeling, and training, leveraging HARP and the DNN-Estimator to optimize resource allocations dynamically. The system continuously refines its execution estimates, ensuring efficient utilization of both edge and HPC resources.
+Future work will explore enhancements to the DNN-Estimator, including methods to improve training time predictions with reduced reliance on direct hardware execution. Additionally, we aim to refine user interaction through an integrated chatbot assistant in iScheduler, enabling researchers to explore configurations and receive real-time resource selection guidance. Furthermore, we will focus on showcasing the generalizability of our framework’s features across diverse use cases, demonstrating its adaptability to different scientific domains and computational workflows.
+
+\endinput
